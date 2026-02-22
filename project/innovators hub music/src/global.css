@@ -1,0 +1,7 @@
+@import "tailwindcss";
+body{
+    color: aliceblue;
+}
+.scrollbar-hide::-webkit-scrollbar{
+    display: none;
+}
